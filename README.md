@@ -87,7 +87,7 @@
 проверка на то, что поле actual_departure меньше либо равно текущему времени, с помощью функции now(),
 проверка на то, что поле amount больше нуля
 
-### Файлы формата .ktl и .kjb можно открыть с помощью утилиты Spoon от Pentaho Data Integration.
+### Файлы формата .ktr и .kjb можно открыть с помощью утилиты Spoon от Pentaho Data Integration.
 - create_base.ktr
 - input_data_to_dimensions.ktr
 - main_transform.ktr
